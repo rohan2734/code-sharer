@@ -16,6 +16,8 @@
 
 <h2> Contributing to Code Sharer for Hacktoberfest </h2>
 
+<p align="center"><img src="https://media.giphy.com/media/vYYTSFToh3jag/giphy.gif"></p>
+
 Look at the <a href="https://github.com/genderev/code-sharer/issues">open issues</a>! There are issues tagged with "hacktoberfest" that make it easy for you to get started contributing.
 
 Alternatively, follow these steps:
@@ -53,5 +55,5 @@ Code Sharer abides by <a href="https://www.contributor-covenant.org/version/1/4/
 
 <h3> Credit </h3>
 
-<a href="https://www.flaticon.com/authors/phatplus">icon</a>
 <p align="center"><img alt="solve the issues" src="https://media.giphy.com/media/kcsAhQZjd1wYzpG4xQ/giphy.gif" class="center"></p>
+<ul><li><a href="https://www.flaticon.com/authors/phatplus">icon</a></li></ul>
