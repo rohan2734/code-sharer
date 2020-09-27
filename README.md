@@ -1,6 +1,6 @@
-<p text-align ="center"><img alt="code sharer" src="assets/top.png" width="200"></p>
-<p text-align="center"> Share colorful snippets of your code.</p>
-<p text-align="center"><img alt ="contributers" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></p>
+<p align="center"><img alt="code sharer" src="assets/top.png" width="200"></p>
+<p align="center"> Share colorful snippets of your code.</p>
+<p align="center"><img alt ="contributers" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></p>
 
 <h1> Code Sharer </h1>
 <p> Code Sharer is a website that allows programmers to share colorful snippets of code. It's basically <a href="gist.github.com/">Github Gists</a>, but with color.</p>
@@ -32,19 +32,26 @@ Code Sharer abides by <a href="https://www.contributor-covenant.org/version/1/4/
 
 <h3> License </h3>
 
-This project uses the <a href="https://github.com/genderev/code-sharer/blob/master/LICENSE.md">MIT license</a>.
+<p align="center"><img class="center" src="https://media.giphy.com/media/l0K4gA8yTvAokRsek/giphy.gif" ></p>
+<ul><li>This project uses the <a href="https://github.com/genderev/code-sharer/blob/master/LICENSE.md">MIT license</a>.</li></ul>
 
 <h2>How to start Code-sharer?</h2>
 
-<p text-align="center"><img src="https://media.giphy.com/media/l49JC5JvmDm17Exe8/giphy.gif"></p>
-
-<p>run <code>npm install</code></p>
-<p>Open the <code>index.html</code> file in your web browser</p>
+<p align="center"><img alignsrc="https://media.giphy.com/media/l49JC5JvmDm17Exe8/giphy.gif"  class="center"></p>
+<ul>
+<li><p>run <code>npm install</code></p></li>
+<li><p>Open the <code>index.html</code> file in your web browser</p></li>
+</ul>
 
 <h3>For Slaying Bugs</h3>
 
-<p text-align="center"><img alt="solve the issues" src="https://media.giphy.com/media/ekje2HEQqJW7cE9SIJ/giphy.gif"></p>
-<p>visit <a href="https://github.com/genderev/code-sharer/issues"> code-shared issues</p>
+<p align="center"><img alt="solve the issues" src="https://media.giphy.com/media/ekje2HEQqJW7cE9SIJ/giphy.gif" class="center"></p>
+
+<ul>
+  <li>visit <a href="https://github.com/genderev/code-sharer/issues"> code-shared issues</li>
+</ul>
 
 <h3> Credit </h3>
+
 <a href="https://www.flaticon.com/authors/phatplus">icon</a>
+<p align="center"><img alt="solve the issues" src="https://media.giphy.com/media/kcsAhQZjd1wYzpG4xQ/giphy.gif" class="center"></p>
