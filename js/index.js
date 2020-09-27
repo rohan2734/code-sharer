@@ -60,6 +60,7 @@ const text = document.getElementById("type");
  } else {
 
      const worker = new Worker("js/share.js");
+     worker.postMessage(text.value);
 
      text.addEventListener("keypress",send);
 
