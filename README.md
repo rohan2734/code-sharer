@@ -36,14 +36,14 @@ This project uses the <a href="https://github.com/genderev/code-sharer/blob/mast
 
 <h2>How to start Code-sharer?</h2>
 
-<p text-align="center"><img href="https://media.giphy.com/media/l49JC5JvmDm17Exe8/giphy.gif"></p>
+<p text-align="center"><img src="https://media.giphy.com/media/l49JC5JvmDm17Exe8/giphy.gif"></p>
 
 <p>run <code>npm install</code></p>
 <p>Open the <code>index.html</code> file in your web browser</p>
 
 <h3>For Slaying Bugs</h3>
 
-<p text-align="center"><img alt="solve the issues" href="https://media.giphy.com/media/ekje2HEQqJW7cE9SIJ/giphy.gif"></p>
+<p text-align="center"><img alt="solve the issues" src="https://media.giphy.com/media/ekje2HEQqJW7cE9SIJ/giphy.gif"></p>
 <p>visit <a href="https://github.com/genderev/code-sharer/issues"> code-shared issues</p>
 
 <h3> Credit </h3>
