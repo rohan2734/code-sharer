@@ -43,7 +43,7 @@ This project uses the <a href="https://github.com/genderev/code-sharer/blob/mast
 
 <h3>For Slaying Bugs</h3>
 
-<p text-align="center"><img alt="solve the issues" src="./images/solving-issues.png"></p>
+<p text-align="center"><img alt="solve the issues" href="https://media.giphy.com/media/ekje2HEQqJW7cE9SIJ/giphy.gif"></p>
 <p>visit <a href="https://github.com/genderev/code-sharer/issues"> code-shared issues</p>
 
 <h3> Credit </h3>
