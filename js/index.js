@@ -65,7 +65,7 @@ const text = document.getElementById("type");
      text.addEventListener("keypress",send);
 
      function send(){
-       setTimeout(function(){worker.postMessage(text.value)}, 1000)
+       worker.postMessage(text.value);
      }
 
      worker.onmessage = function (e) {
