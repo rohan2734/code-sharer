@@ -1,6 +1,6 @@
-<p align ="center"><img alt="code sharer" src="assets/top.png" width="200"></p>
-<p align="center"> Share colorful snippets of your code.</p>
-<p align="center"><img alt ="contributers" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></p>
+<p text-align ="center"><img alt="code sharer" src="assets/top.png" width="200"></p>
+<p text-align="center"> Share colorful snippets of your code.</p>
+<p text-align="center"><img alt ="contributers" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></p>
 
 <h1> Code Sharer </h1>
 <p> Code Sharer is a website that allows programmers to share colorful snippets of code. It's basically <a href="gist.github.com/">Github Gists</a>, but with color.</p>
@@ -33,6 +33,18 @@ Code Sharer abides by <a href="https://www.contributor-covenant.org/version/1/4/
 <h3> License </h3>
 
 This project uses the <a href="https://github.com/genderev/code-sharer/blob/master/LICENSE.md">MIT license</a>.
+
+<h2>How to start Code-sharer?</h2>
+
+<p text-align="center"><img href="https://media.giphy.com/media/l49JC5JvmDm17Exe8/giphy.gif"></p>
+
+<p>run <code>npm install</code></p>
+<p>Open the <code>index.html</code> file in your web browser</p>
+
+<h3>For Slaying Bugs</h3>
+
+<p text-align="center"><img alt="solve the issues" src="./images/solving-issues.png"></p>
+<p>visit <a href="https://github.com/genderev/code-sharer/issues"> code-shared issues</p>
 
 <h3> Credit </h3>
 <a href="https://www.flaticon.com/authors/phatplus">icon</a>
